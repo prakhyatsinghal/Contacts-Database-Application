@@ -1,4 +1,4 @@
-# Import what you need from tkinter module
+# Importing what we need from tkinter module
 from tkinter import Tk, Button, PhotoImage, Label, LabelFrame, W, E,N,S, Entry, END,StringVar ,Scrollbar,Toplevel
 from tkinter import ttk   # Provides access to the Tk themed widgets.
 import sqlite3
